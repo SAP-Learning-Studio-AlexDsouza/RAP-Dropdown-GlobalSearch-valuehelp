@@ -159,7 +159,7 @@ SAP Learning Studio
 If you have questions or suggestions:
 
 - Open an issue in this repository  
-- Comment on the YouTube video  
+- Comment on the YouTube video  : https://www.youtube.com/watch?v=cqs4sGQnM0Y
 
 ---
 
